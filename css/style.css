@@ -1,0 +1,292 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+.main-container{
+   width: 1240px;
+   margin: 0 auto;
+   padding-left: 15px;
+   padding-right: 15px;
+}
+
+.flex-container{
+   margin-left: -15px;
+   margin-right: -15px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.flex-item1{
+   width:8.33% ;
+   flex: 0 0 auto;
+   padding-left: 15px;
+   padding-right: 15px;
+}
+.flex-item2{
+    width:16.66% ;
+    flex: 0 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+ }
+ .flex-item3{
+    width:25% ;
+    flex: 0 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+ }
+ .flex-item4{
+    width:33.33% ;
+    flex: 0 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+ }
+ .flex-item5{
+    width:41.66% ;
+    flex: 0 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+ }
+ .flex-item6{
+    width:50% ;
+    flex: 0 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+ }
+ .flex-item7{
+    width:58.33% ;
+    flex: 0 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+ }.flex-item8{
+    width:66.66% ;
+    flex: 0 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+ }.flex-item9{
+    width:75% ;
+    flex: 0 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+ }.flex-item10{
+    width:83.33% ;
+    flex: 0 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+ }.flex-item11{
+    width:91.66% ;
+    flex: 0 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+ }.flex-item12{
+    width:100% ;
+    flex: 0 0 auto;
+    padding-left: 15px;
+    padding-right: 15px;
+ }
+ header{
+   background-color: black;
+   padding: 10px;
+
+ }
+ .logo{
+   background-color: red;
+   height: 40px;
+   width: auto;
+ }
+ .navbar{
+   background-color: red;
+   height: 40px;
+   width: auto;
+ }
+ .btn{
+   background-color: red;
+   height: 40px;
+   width: auto;
+ }
+ .section1{
+   background-color: red;
+   padding: 50px;
+ }
+.sec1-cnt{
+   background-color: black;
+   height: 450px;
+}
+.section2{
+   background-color: black;
+   padding: 100px;
+}
+.partner{
+   background-color: red;
+   height: 100px;
+   width: auto;
+}
+.section3{
+   background-color: red;
+   padding: 100px;
+}
+.sec3-cnt{
+   background-color: black;
+   height: 400px;
+   width: auto;
+   padding: 29px;
+}
+.sec3-clm{
+   background-color: black;
+   padding: 1px;
+}
+.sec3-clm-cnt{
+   background-color: red;
+   height: 152px;
+   width: auto;
+   /* margin: 10px; */
+
+}
+.section4{
+   padding: 100px;
+   background-color: black;
+}
+.sec4-cnt{
+   background-color: red;
+   height: 130px;
+
+}
+.section5{
+   background-color: red;
+   padding: 100px;
+}
+.sec5-cnt{
+   background-color: black;
+   height: 120px;
+}
+.section6{
+   background-color: black;
+   padding: 26px;
+}
+.sec6-cnt{
+   background-color: red;
+   height: 550px;
+   width: auto;
+}
+.section7{
+   background-color: red;
+   padding: 60px;
+}
+.sec7-cnt{
+   background-color: black;
+   height: 140px;
+   
+}
+.sec7-in-cnt{
+   width: auto;
+   margin-top: 20px;
+   height: 140px;
+   background-color: black;
+}
+.section8{
+   background-color: black;
+   padding: 30px;
+}
+.sec8-cnt1{
+   background-color: red;
+   height: 100px;
+   margin-bottom: 25px;
+}
+.sec8-cnt2{
+   background-color: red;
+   height: 250px;
+   margin-bottom: 25px;
+}
+.section9{
+   background-color: red;
+   padding: 30px;
+}
+.sec9-cnt1{
+   height: 150px;
+   background-color: black;
+   margin-bottom: 30px;
+
+}
+.sec9-cnt2{
+   height: 350px;
+   background-color: black;
+}
+.section10{
+   background-color: black;
+   padding: 30px;
+}
+.sec10-cnt1{
+   height: 150px;
+   background-color: red;
+   margin-bottom: 30px;
+}
+.sec10-cnt2{
+   background-color: red;
+   height: 500px;
+}
+.section11{
+   background-color: red;
+   padding: 30px;
+}
+.sec11-cnt{
+   height: 120px;
+   background-color: black;
+   margin-bottom: 40px;
+}
+.sec11-cnt2{
+   height: 80px;
+   background-color: black;
+   margin-bottom: 40px;
+}
+.section12{
+   background-color: black;
+   padding: 50px;
+}
+.sec12-cnt{
+   height: 60px;
+   background-color: red;
+   margin-bottom: 50px;
+}
+.sec12-cnt1{
+   height: 400px;
+   background-color: red;
+
+}
+.section13{
+   background-color: red;
+   padding: 40px;
+}
+.sec13-cnt{
+   height: 130px;
+   background-color: black;
+   margin-bottom: 30px;
+}
+.sec13-cnt2{
+   background-color: black;
+   height: 450px;
+   padding: 10px;
+}
+.sec13-cnt3{
+   background-color: red;
+   height:195px ;
+   margin: 10px;
+}
+.section14{
+   background-color: black;
+   padding: 50px;
+}
+.sec14-cnt1{
+   background-color: red;
+   height: 350px;
+}
+.section15 {
+   background-color: red;
+   padding: 20px;
+}
+.sec15-cnt{
+   background-color: black;
+   height: 50px;
+}
+
